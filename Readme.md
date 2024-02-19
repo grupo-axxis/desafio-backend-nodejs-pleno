@@ -1,4 +1,4 @@
-# Backend Challenge BackEnd Pleno
+# Challenge BackEnd Pleno
 
 #### Introdução
 O desafio consiste em criar uma API REST utilizando os dados do Open Food Facts(um banco de dados aberto com informações nutricionais de diversos alimentos).
