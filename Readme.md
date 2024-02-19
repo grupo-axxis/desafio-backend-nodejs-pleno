@@ -8,7 +8,7 @@ O projeto tem como objetivo dar suporte a equipe de nutricionistas de uma empres
 
 #### Antes de começar
 - O projeto deve ser utilizado a Linguagem NodeJs ou PHP.
-- Considere o prazo de entrega de dias a partir do recebimento do desafio.
+- Considere o prazo de entrega de 5 dias a partir do recebimento do desafio.
 - Documentar todo o processo de investigação para o desenvolvimento da atividade (README.md no seu repositório); os resultados destas tarefas são tão importantes do que o seu processo de pensamento e decisões à medida que as completa, por isso tente documentar e apresentar os seus hipóteses e decisões na medida do possível.
 - A entrega deverá ser disponibilizada no Github do candidato com a visibilidade pública e colocar esse readme como referência.
 
